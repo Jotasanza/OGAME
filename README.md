@@ -1,4 +1,4 @@
-Jogo da Velha em Python
+Jogo da Velha em Python.
 Este é um programa simples em Python que permite que dois jogadores joguem o clássico jogo da velha. O programa usa uma interface de linha de comando para solicitar que os jogadores façam suas jogadas.
 
 Como Jogar
